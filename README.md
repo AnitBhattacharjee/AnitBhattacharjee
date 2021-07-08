@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnitBhattacharjee
-- 👀 I’m interested in singing and compititive
-- 🌱 I’m currently learning game development and c++
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me EMAIL-anitbhattacharjee684@gmail.com
 
