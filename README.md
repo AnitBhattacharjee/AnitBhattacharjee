@@ -1,7 +1,8 @@
+Competitive Programmer and Web Developer
+Passionate about coding and problem-solving, I've developed skills in various programming languages and technologies to create user-friendly web applications. Additionally, I enjoy participating in competitive programming competitions to continuously enhance my abilities and learn new techniques.
 - 👋 Hi, I’m @AnitBhattacharjee
 - 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on learning
+- 🌱 I’m currently learning DSA and WebDevelopment
 - 📫 How to reach me EMAIL-anitbhattacharjee684@gmail.com
 
 <!---
